@@ -3,3 +3,7 @@ target/
 .metals/
 .bloop
 .vscode
+.idea/
+.idea/.gitignore
+project/metals.sbt
+project/project
